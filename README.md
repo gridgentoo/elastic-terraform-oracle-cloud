@@ -1,3 +1,6 @@
+(elastic-terraform-oracle-cloud) Elastic cluster on Oracle Cloud Infrastructure  
+https://docs.google.com/spreadsheets/d/1RbTIA_83ZvYVCA9q7ybimA5zBD6a6jJ3Q5nRlpHB2WI/  
+
 # oci-elastic
 
 These are Terraform modules that deploy [Elastic](https://www.elastic.co/products/) on [Oracle Cloud Infrastructure (OCI)](https://cloud.oracle.com/en_US/cloud-infrastructure).  They are developed jointly by Oracle and Elastic.
