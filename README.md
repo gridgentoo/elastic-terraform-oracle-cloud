@@ -1,4 +1,4 @@
-(elastic-terraform-oracle-cloud) Elastic cluster on Oracle Cloud Infrastructure  
+(elastic-terraform-oracle-cloud) deploy an Elastic cluster on Oracle Cloud Infrastructure   
 https://docs.google.com/spreadsheets/d/1RbTIA_83ZvYVCA9q7ybimA5zBD6a6jJ3Q5nRlpHB2WI/  
 
 # oci-elastic
